@@ -78,12 +78,7 @@ a {
     color: #109d6a;
     text-decoration: underline;
 }
-            
-a:visited {
-    color:#109d6a;
-    font-family:'Playfair Display', serif;
-}
-            
+                     
 a:hover {
     color:#277456;
     font-family:'Playfair Display', serif;
